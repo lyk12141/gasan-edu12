@@ -1,38 +1,17 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+# 버그리포트
 
----
+1. 작업환경(모바일,PC)
+2. 어느 화면을 클릭하였을 때 발생했는가?
+3. 어떤 버그 코드가 나왔는가?
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# 작업환경
+1. PC, 모바일
+2. 자바 버전
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+# 어느 화면을 클릭하였을 때 발생
+1. 어떤 화면을 클릭하였을 때 발생하였는가?
+2. 문제 재현
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+# 어떤 버그 코드가 나왔는가?
+1. 버그 코드 발생
+2. 문제 설명
